@@ -1,0 +1,83 @@
+body {
+    background-color: #89C5D2;
+}
+
+.oswald-uniquifier{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+
+.container {
+    text-align: center;
+
+}
+
+.header {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: "Oswald", sans-serif;
+}
+
+.box-link{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-light {
+    margin-top: 200px;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    color: black;
+    font-size: 200%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    font-family: "Oswald", sans-serif;
+}
+
+
+.box_form_item {
+    padding: 20px 20px 10px 20px;
+    padding-bottom: 0px;
+    
+}
+
+.box_subline {
+    padding: 5px 0px 0px 0px;
+}
+
+
+h2 {
+    font-size: 15px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    font-family: "Oswald", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black ;
+    font-size: 10px;
+    font-family: "Oswald", sans-serif;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+input {
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    border-radius: 12px;
+    border: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    background-color: #F4F2F2;
+
+}
+
+
+
